@@ -1,0 +1,5 @@
+Ideas:
+	Need to see menu to choose items
+	Need to calculate total
+	Need to assign orders to tables
+	Need to be able to modify items
